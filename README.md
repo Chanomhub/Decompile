@@ -1,3 +1,3 @@
 
 ## Credit
-[Zrax](https://github.com/zrax/): https://github.com/zrax/pycdc
+PYC: https://github.com/zrax/pycdc by [Zrax](https://github.com/zrax/)
