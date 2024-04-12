@@ -1,2 +1,3 @@
-# Decrypter
-Decrypter  add-on
+
+## Credit
+(Pyc)[https://github.com/zrax/pycdc]
